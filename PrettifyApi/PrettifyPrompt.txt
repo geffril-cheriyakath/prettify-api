@@ -1,0 +1,5 @@
+﻿Prettify the following.  
+- If text: prettify, fix grammar, punctuation, clarity, keep meaning, keep emojies wherever needed.  
+- If C# code: prettify, standardize variable names, add XML comments for classes/methods/properties, inline comments, keep logic unchanged.  
+Return output only, no additional text.  
+Content: "{input}"

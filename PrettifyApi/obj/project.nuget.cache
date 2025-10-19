@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "sTfQLJabAUE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geffr\\OneDrive\\Desktop\\Personal\\repos\\PrettifyApi\\PrettifyApi\\src\\PrettifyApi\\PrettifyApi\\PrettifyApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geffr\\.nuget\\packages\\gefc.ai.gemini\\1.1.0\\gefc.ai.gemini.1.1.0.nupkg.sha512",
+    "C:\\Users\\geffr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\geffr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "C:\\Users\\geffr\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
+    "C:\\Users\\geffr\\.nuget\\packages\\swashbuckle.aspnetcore\\9.0.6\\swashbuckle.aspnetcore.9.0.6.nupkg.sha512",
+    "C:\\Users\\geffr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.6\\swashbuckle.aspnetcore.swagger.9.0.6.nupkg.sha512",
+    "C:\\Users\\geffr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.6\\swashbuckle.aspnetcore.swaggergen.9.0.6.nupkg.sha512",
+    "C:\\Users\\geffr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.6\\swashbuckle.aspnetcore.swaggerui.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
