@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrettifyApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86a769066697ff27b4564ee226c7ef90df9c9005")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d82c2a6183495a48750dcbe57de80c92341a29")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrettifyApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrettifyApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

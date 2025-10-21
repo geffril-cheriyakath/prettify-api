@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sTfQLJabAUE=",
+  "dgSpecHash": "HoxhYskFLeA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\geffr\\OneDrive\\Desktop\\Personal\\repos\\PrettifyApi\\PrettifyApi\\src\\PrettifyApi\\PrettifyApi\\PrettifyApi.csproj",
+  "projectFilePath": "C:\\Users\\geffr\\OneDrive\\Desktop\\Personal\\repos\\prettify-api\\prettify-api\\PrettifyApi\\PrettifyApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geffr\\.nuget\\packages\\gefc.ai.gemini\\1.1.0\\gefc.ai.gemini.1.1.0.nupkg.sha512",
     "C:\\Users\\geffr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",

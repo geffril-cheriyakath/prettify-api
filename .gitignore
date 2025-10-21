@@ -1,0 +1,16 @@
+# Visual Studio temporary files
+.vs/
+
+# Build outputs
+bin/
+obj/
+
+# Node.js / React dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

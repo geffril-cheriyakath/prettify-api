@@ -124,7 +124,7 @@ app.MapPost("/prettify/stream", async (PrettifyRequest request, GeminiService ge
     {
         await foreach (var chunk in geminiService.PrettifyStreamAsync(request.Text))
         {
-            await response.WriteAsync($"data: {chunk}\n\n");
+            await response.WriteAsync(chunk);
             await response.Body.FlushAsync();
         }
     }
