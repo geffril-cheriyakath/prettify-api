@@ -1,4 +1,4 @@
 ﻿Prettify the following.  
-prettify, fix grammar, punctuation, clarity, keep meaning, keep emojies wherever needed.  
+prettify, rewrite, fix grammar, punctuation, clarity, keep meaning, keep emojies wherever needed.  
 Return output only, no additional text.  
 Content: "{input}"
